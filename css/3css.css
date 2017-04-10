@@ -1,0 +1,142 @@
+.header {
+	width: 1222px;
+	height: 134px;
+	margin: 0 auto;
+}
+.logo {
+	width: 380px;
+	height: 134px;
+	float: left;
+	background-image: url(../images/logo.png);
+	background-repeat: no-repeat;
+	background-position: 120px 50px;
+
+}
+.user {
+	width: 500px;
+	height: 34px;
+	float: right;
+	text-align: right;
+	line-height: 34px;
+	background-image: url(../images/phone.png);
+	background-repeat: no-repeat;
+	background-position: 300px 10px;
+}
+.nav {
+	width: 842px;
+	height: 100px;
+	float: right;
+	position: relative;
+}
+.nav ul {
+	list-style: none;
+	margin: 50px 0;
+}
+.nav ul li {
+	border-right: 2px solid #000;
+	float: left;
+	padding: 0 15px;
+}
+.nav ul li.last {
+	border-right: none;
+}
+.nav ul li.active {
+	font-weight: 900;
+	
+}
+.line {
+	width: 50px;
+	height: 2px;
+	background-color: #000;
+	position: absolute;
+	top: 70px;
+	left: 44px;
+}
+.banner { 
+	width: 1222px;
+	height: 400px;
+	background-image: url(../images/banner.png);
+	margin: 0 auto;
+}
+.middle {
+	width: 1222px;
+	height: 1674px;
+	margin: 0 auto;
+}
+.middle h6 {
+	margin-left: 140px;
+}
+.middle1 {
+	width: 962px;
+	border-bottom: 2px solid #6C7074;
+	margin: 0 auto;
+	margin-top: -18px;
+	margin-bottom: 10px;
+}
+.middle2 {
+	width: 936px;
+	height: 1540px;
+	margin: 0 auto;
+}
+.middle2_1 {
+	width: 174px;
+	height: 144px;
+	background-image: url(../images/middle1.png);
+	background-repeat: no-repeat;
+	float: left;
+}
+.a1 {
+	width: 174px;
+	height: 38px;
+	
+}
+.middle2_2 {
+	width: 174px;
+	height: 144px;
+	background-image: url(../images/middle2.png);
+	background-repeat: no-repeat;
+	float: left;
+	margin-left: 16px;
+}
+.middle2_3 {
+	width: 174px;
+	height: 144px;
+	background-image: url(../images/middle3.png);
+	background-repeat: no-repeat;
+	float: left;
+	margin-left: 16px;
+}
+.middle2_4 {
+	width: 174px;
+	height: 144px;
+	background-image: url(../images/middle4.png);
+	background-repeat: no-repeat;
+	float: left;
+	margin-left: 16px;
+}
+.middle2_5 {
+	width: 174px;
+	height: 144px;
+	background-image: url(../images/middle5.png);
+	background-repeat: no-repeat;
+	float: left;
+	margin-left: 16px;
+}
+
+
+
+
+
+
+
+.footer {
+	width: 1222px;
+	height: 118px;
+	margin: 0 auto;
+	background-color: #EAEAEA;
+	padding-top: 28px;
+}
+.footer p {
+	text-align: center;
+	font-size: 10px;
+}
