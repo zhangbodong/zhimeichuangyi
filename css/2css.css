@@ -10,17 +10,21 @@
 	background-image: url(../images/logo.png);
 	background-repeat: no-repeat;
 	background-position: 120px 50px;
-
+}
+.top {
+	width: 1222px;
+	height: 34px;
+	background-color: #ECECEC;
 }
 .user {
 	width: 500px;
 	height: 34px;
 	float: right;
-	text-align: right;
-	line-height: 34px;
+	text-align: center;
+	line-height: 41px;
 	background-image: url(../images/phone.png);
 	background-repeat: no-repeat;
-	background-position: 300px 10px;
+	background-position: 136px 10px;
 }
 .nav {
 	width: 842px;
@@ -37,6 +41,10 @@
 	float: left;
 	padding: 0 15px;
 }
+.nav ul li a {
+	text-decoration: none;
+	color: #000;
+}
 .nav ul li.last {
 	border-right: none;
 }
@@ -45,18 +53,34 @@
 	
 }
 .line {
-	width: 50px;
+	width: 70px;
 	height: 2px;
 	background-color: #000;
 	position: absolute;
 	top: 70px;
-	left: 44px;
+	left: 116px;
 }
+
 .banner { 
 	width: 1222px;
 	height: 400px;
 	background-image: url(../images/banner.png);
 	margin: 0 auto;
+	position: relative;
+}
+.banner1 {
+	width: 372px;
+	height: 72px;
+	position: absolute;
+	left: 424px;
+	top: 158px;
+}
+.banner2 {
+	width: 26px;
+	height: 112px;
+	position: absolute;
+	left: 1196px;
+	top: 99px;
 }
 .about {
 	width:970px;
@@ -76,16 +100,15 @@
 	margin: 0 auto;
 	position: relative;
 }
-.dd1 {
-	width: 456px;
-	border-bottom: 2px solid #6C7074;
-	float: left;
-	height: 10px;
-}
-.dd2 {
+.base1 {
 	width: 454px;
 	height: 10px;
 	border-bottom: 2px solid #6C7074;
+}
+.dd1 {
+	float: left;
+}
+.dd2 {
 	float: right;
 }
 .dd h6 {
@@ -99,14 +122,11 @@
 	height: 168px;
 	margin: 0 auto;
 }
-.about_down h3 {
+.base2 {
 	text-align: center;
 	color: #666666;
 }
-.about_down p{
-	text-align: center;
-	color: #666666;
-}
+
 .footer {
 	width: 1222px;
 	height: 118px;
