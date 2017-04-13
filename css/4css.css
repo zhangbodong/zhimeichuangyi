@@ -68,15 +68,306 @@
 	width: 346px;
 	height: 754px;
 	float: left;
+	position: relative;
 }
+.banner_down_left h6 {
+	margin: 0;
+	position: absolute;
+	left: 136px; 
+	top: 40px;
+}
+.banner_down_left1 {
+	width: 66px;
+	border-bottom: 2px solid #FF7E2F;
+	position: absolute;
+	left: 130px; 
+	top: 58px;
+}
+.banner_down_left2 {
+	width: 120px;
+	border-bottom: 2px solid #6C7074;
+	position: absolute;
+	left: 196px; 
+	top: 58px;
+}
+.banner_down_left3 {
+	width: 22px;
+	height: 22px;
+	background-image: url(../images/qq.png);
+	position: absolute;
+	left: 140px; 
+	top: 74px;
+}
+.banner_down_left4 {
+	position: absolute;
+	left: 170px; 
+	top: 76px;
+}
+.banner_down_left5 {
+	width: 22px;
+	height: 22px;
+	background-image: url(../images/qq.png);
+	position: absolute;
+	left: 140px; 
+	top: 106px;
+}
+.banner_down_left6 {
+	position: absolute;
+	left: 170px; 
+	top: 108px;
+}
+.banner_down_left7 {
+	width: 180px;
+	border-bottom: 2px dashed #6C7074;
+	position: absolute;
+	left: 140px; 
+	top: 136px;
+}
+.banner_down_left8 {
+	width: 30px;
+	height: 30px;
+	background-image: url(../images/time.png);
+	position: absolute;
+	left: 136px; 
+	top: 144px;
+}
+.banner_down_left9 {
+	position: absolute;
+	left: 170px; 
+	top: 150px;
+}
+.banner_down_left10 {
+	position: absolute;
+	left: 144px; 
+	top: 184px;
+}
+.banner_down_left11 {
+	position: absolute;
+	left: 144px; 
+	top: 210px;
+}
+.banner_down_left12 {
+	width: 180px;
+	border-bottom: 2px dashed #6C7074;
+	position: absolute;
+	left: 140px; 
+	top: 238px;
+}
+.banner_down_left13 {
+	width: 28px;
+	height: 26px;
+	background-image: url(../images/lianxi.png);
+	position: absolute;
+	left: 136px; 
+	top: 248px;
+}
+.banner_down_left14 {
+	position: absolute;
+	left: 170px; 
+	top: 252px;
+}
+.banner_down_left15 {
+	position: absolute;
+	left: 146px; 
+	top: 278px;
+}
+
 .banner_down_right {
 	width: 876px;
 	height: 754px;
 	float: left;
+	position: relative;
 }
-
-
-
+.banner_down_right h2 {
+	text-align: center;
+}
+.banner_down_right1 {
+	position: absolute;
+	left: 374px;
+	top: 54px;
+}
+.banner_down_right2 {
+	position: absolute;
+	left: 10px;
+	top: 88px;
+}
+.banner_down_right3 {
+	width: 25px;
+	height: 25px;
+	background-image: url(../images/fuzhi.png);
+	position: absolute;
+	left: 68px; 
+	top: 84px;
+}
+.banner_down_right4 {
+	position: absolute;
+	left: 98px;
+	top: 88px;
+}
+.banner_down_right5 {
+	width: 25px;
+	height: 25px;
+	background-image: url(../images/tengxun.png);
+	position: absolute;
+	left: 178px; 
+	top: 84px;
+}
+.banner_down_right6 {
+	position: absolute;
+	left: 208px;
+	top: 88px;
+}
+.banner_down_right7 {
+	width: 25px;
+	height: 25px;
+	background-image: url(../images/sina.png);
+	position: absolute;
+	left: 286px; 
+	top: 84px;
+}
+.banner_down_right8 {
+	position: absolute;
+	left: 316px;
+	top: 88px;
+}
+.banner_down_right9 {
+	width: 25px;
+	height: 25px;
+	background-image: url(../images/qqkongjian.png);
+	position: absolute;
+	left: 394px; 
+	top: 84px;
+}
+.banner_down_right10 {
+	position: absolute;
+	left: 424px;
+	top: 88px;
+}
+.banner_down_right11 {
+	width: 25px;
+	height: 25px;
+	background-image: url(../images/kaixin.png);
+	position: absolute;
+	left: 484px; 
+	top: 84px;
+}
+.banner_down_right12 {
+	position: absolute;
+	left: 514px;
+	top: 88px;
+}
+.banner_down_right13 {
+	width: 25px;
+	height: 25px;
+	background-image: url(../images/renren.png);
+	position: absolute;
+	left: 576px; 
+	top: 84px;
+}
+.banner_down_right14 {
+	position: absolute;
+	left: 606px;
+	top: 88px;
+}
+.banner_down_right15 {
+	width: 25px;
+	height: 25px;
+	background-image: url(../images/douban.png);
+	position: absolute;
+	left: 668px; 
+	top: 84px;
+}
+.banner_down_right16 {
+	position: absolute;
+	left: 698px;
+	top: 88px;
+}
+.banner_down_right17 {
+	width: 25px;
+	height: 25px;
+	background-image: url(../images/sohu.png);
+	position: absolute;
+	left: 70px; 
+	top: 116px;
+}
+.banner_down_right18 {
+	position: absolute;
+	left: 97px;
+	top: 120px;
+}
+.banner_down_right19 {
+	width: 25px;
+	height: 25px;
+	background-image: url(../images/wangyi.png);
+	position: absolute;
+	left: 180px; 
+	top: 116px;
+}
+.banner_down_right20 {
+	position: absolute;
+	left: 208px;
+	top: 120px;
+}
+.banner_down_right21 {
+	width: 25px;
+	height: 25px;
+	background-image: url(../images/baidu.png);
+	position: absolute;
+	left: 287px; 
+	top: 116px;
+}
+.banner_down_right22 {
+	position: absolute;
+	left: 317px;
+	top: 120px;
+}
+.banner_down_right23 {
+	width: 25px;
+	height: 25px;
+	background-image: url(../images/tieba.png);
+	position: absolute;
+	left: 395px; 
+	top: 116px;
+}
+.banner_down_right24 {
+	position: absolute;
+	left: 424px;
+	top: 120px;
+}
+.banner_down_right25 {
+	width: 860px;
+	border-bottom: 2px dashed #6C7074;
+	position: absolute;
+	left: 2px; 
+	top: 154px;
+}
+.d1 {
+	width: 876px; 
+	height: 530px;
+	margin-top: 116px;
+}
+.banner_down_right p {
+	font-size: 14px;
+	margin-bottom: 46px;
+	color: #9C9C9C;
+}
+.banner_down_right h1 {
+	font-size: 14px;
+	font-weight: normal;
+	color: #9C9C9C;
+}
+.d2 {
+	width: 876px;
+	height: 61px;
+}
+.dd1 {
+	margin-left: 300px;
+	float: left;
+}
+.dd2 {
+	margin-left: 10px;
+	float: left;
+}
 
 
 
